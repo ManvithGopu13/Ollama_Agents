@@ -1,4 +1,5 @@
-from fastmcp import FastMCP
+# from fastmcp import FastMCP
+from fastmcp.server.server import FastMCP
 # from langchain_community.tools import DuckDuckGoSearchResults
 from langchain_tavily import TavilySearch
 import os
