@@ -6,3 +6,9 @@ my_env
 .DS_Store
 5_MCP/__pycache__/echo.cpython-312.pyc
 5_MCP/__pycache__/mcp.cpython-312.pyc
+6_embedding/input.txt
+github_mcp.json
+7_yxmd_to_img/output_2.png
+7_yxmd_to_img/output.png
+7_yxmd_to_img/sending_pattern_workflow6.yxmd
+7_yxmd_to_img/sorting_snowflake_data.yxmd
