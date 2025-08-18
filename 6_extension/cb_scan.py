@@ -6,8 +6,7 @@ def find_python_files(root_dir):
     for subdir, _, files in os.walk(root_dir):
         for file in files:
             if file.endswith('.py'):
-                subdir_name = os.path.basename(subdir)
-                py_files.append(os.path.join(subdir_name, file))
+                py_files.append(os.path.join(subdir, file))
 
     return py_files
 

@@ -6,3 +6,4 @@ my_env
 .DS_Store
 5_MCP/__pycache__/echo.cpython-312.pyc
 5_MCP/__pycache__/mcp.cpython-312.pyc
+6_extension/__pycache__
