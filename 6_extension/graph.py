@@ -40,6 +40,7 @@ if __name__ == "__main__":
     # Example of printing the graph
     print("Nodes in the graph:")
     for node in project_graph.nodes(data=True):
+        print("Nodes of the graph are: ")
         print(node)
     
     print("\nEdges in the graph:")
