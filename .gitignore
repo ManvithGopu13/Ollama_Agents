@@ -13,6 +13,8 @@ github_mcp.json
 7_yxmd_to_img/sending_pattern_workflow6.yxmd
 7_yxmd_to_img/sorting_snowflake_data.yxmd
 
+8_llm/spm.model
+8_llm/spm.vocab
 
 static
 

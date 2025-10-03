@@ -10,3 +10,9 @@ langchain_nvidia_ai_endpoints
 docx2txt
 scikit-learn
 PyMuPDF
+torch
+torchvision
+torchaudio
+sentencepiece
+tqdm
+numpy
