@@ -4,3 +4,9 @@ duckduckgo-search
 langchain-tavily
 fastmcp
 python-dotenv
+linkedin_jobs_scraper
+pandas
+langchain_nvidia_ai_endpoints
+docx2txt
+scikit-learn
+PyMuPDF
